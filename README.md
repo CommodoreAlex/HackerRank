@@ -2,6 +2,8 @@
 
 This repository contains solutions to various HackerRank challenges, focusing on algorithms, data structures, and problem-solving.
 
+- [HackerRank Profile](https://www.hackerrank.com/profile/alexandercommod1)
+
 ---
 
 ## Languages Used
@@ -12,11 +14,5 @@ This repository contains solutions to various HackerRank challenges, focusing on
 - Golang
 - Rust
 - C
-
----
-
-## Resources
-
-- [HackerRank Profile](https://www.hackerrank.com/profile/alexandercommod1)
 
 ---
